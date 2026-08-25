@@ -31,7 +31,7 @@ The work explores how feedback and control techniques can be applied to autonomo
 ```text
 ISL-Advanced-Drone-Technology/
 │
-├── Advance_Drone_Technology_Atharv_Rajpoot.ipynb
+├── Advance_Drone_Technology.ipynb
 └── README.md
 ```
 
